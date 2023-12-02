@@ -9,3 +9,7 @@ This project aims to provide game admins and players with the ability to quickly
 ## Installation
 
 ## Usage
+
+## License
+
+This project is licensed under [GNU GPLv3](./LICENSE).
